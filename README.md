@@ -1,4 +1,4 @@
-# BMI Calculator🩻
+# BMI Calculator🏋🏻
 
 An application written during the development course. While writing this project, we delved deeper into OOP 
 principles, custom widgets, and explored new widgets such as the slider or Material button.
