@@ -16,7 +16,7 @@ The application interface is a screen with cards inside which the user enters hi
 At the bottom of the screen there is a calculation button, after clicking on it, a new screen 
 appears with the calculated body mass index of the user and a comment in accordance with his indicators.
 
-### Functionality🕹
+## Functionality🕹
 
 On the main screen there are two gender cards, which are united by functions and work on 
 the principle of a switch.
